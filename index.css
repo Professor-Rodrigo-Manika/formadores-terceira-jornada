@@ -1,0 +1,47 @@
+body{
+	background-color: rgb(56, 102, 102);
+}
+
+p{
+text-align: center;
+font-size: 2em;
+}
+
+.titulo{
+	text-align:center;
+	background: #00FF00;
+	font-size: 3em;
+	padding: 10px;
+}
+.Primeira-Imagem{
+	text-align: center;
+	width: 50%;
+	border-radius: 20%;
+	border: 10px solid	rgb(201, 42, 42);
+	margin-left: 300px;
+}
+
+Li{
+	display: inline;
+	font-size: 30px;
+	padding:  30px;
+}
+.texto{
+	font-size: 2em;
+
+}
+
+.cardápio{
+	width: 100%;
+	align-items: center;
+	text-decoration-color: rgba(30, 129, 38, 0.253);
+}
+
+.doritos{
+	text-align: center;
+	margin: 0 1.5%;
+}
+.chilli{
+	text-align: center;
+	margin: 0 1.5%;
+}

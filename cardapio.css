@@ -1,0 +1,14 @@
+.titulo{
+	text-align: center;
+	background: #50b450;
+	font-size: 3em;
+	padding: 10px;
+}
+
+.doritos{
+	background-color: black;
+	border-top: #50b450;
+	border-radius: 50%;
+}
+
+
